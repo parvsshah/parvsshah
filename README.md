@@ -33,9 +33,9 @@ Genuinely hooked on data — the kind of person who finds patterns in things mor
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
-<div align="center">
+ <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parvsshah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" />
 &nbsp;&nbsp;
@@ -49,7 +49,7 @@ Genuinely hooked on data — the kind of person who finds patterns in things mor
 &nbsp;&nbsp;
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=parvsshah.parvsshah&style=for-the-badge)
 
-</div>
+</div> -->
 
 ---
 
